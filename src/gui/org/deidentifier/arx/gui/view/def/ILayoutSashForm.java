@@ -11,5 +11,7 @@ package org.deidentifier.arx.gui.view.def;
  *
  */
 public interface ILayoutSashForm {
+	
+	public void test(int nr);
 
 }
